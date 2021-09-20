@@ -1,0 +1,22 @@
+body {
+  background-color: #e9ecef;
+}
+.price {
+  background-color: #ccc;
+  color: #fff;
+  font-weight: 400;
+  font-size: 12px;
+  border-radius: 12px;
+  padding: 5px;
+}
+
+.color-purple {
+  color: rgb(128, 21, 128);
+}
+
+.jumbotron {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
